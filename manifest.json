@@ -1,0 +1,11 @@
+{
+  "name": "Font Replace One Click",
+  "id": "1642116571485028391",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}
