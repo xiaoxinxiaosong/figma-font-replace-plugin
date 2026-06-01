@@ -42,3 +42,7 @@ node ./scripts/build-plugin.mjs
 - `src/generated/ui-inline.ts`：内联 UI
 - `scripts/build-plugin.mjs`：构建脚本
 - `scripts/smoke-test-plugin-runtime.mjs`：运行时 smoke test
+
+## Maintainers
+
+- [xiaoxinxiaosong](https://github.com/xiaoxinxiaosong) - Owner and primary maintainer
